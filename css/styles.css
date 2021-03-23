@@ -1,0 +1,53 @@
+body,html{
+  margin:0;
+  padding:0;
+  height:100%;
+  background: #67c56d;
+}
+
+.user-card{
+  height:400px;
+  width:350px;
+  margin-top:auto;
+  margin-bottom:auto;
+  background:#f39c12;
+  position:relative;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+
+}
+
+.form-container{
+  margin-top:100px;
+
+}
+.login_btn{
+  width:100%;
+  background:#c0392b;
+  color:white;
+}
+.login_btn:focus{
+  box-shadow:none;
+  outline:0px;
+}
+.login_container{
+  padding:0.2rem;
+}
+
+.input-group-text{
+  background:#c0392b;
+  color:white;
+  border:0;
+  border-radius:0.25rem;
+
+}
+.input-user,
+.input-pass:focus{
+  box-shadow:none;
+  outline:0px;
+}
+.custom-checkbox .custom-control-input:checked~.custom-control-label:before{
+  background-color:#c0392b;
+}
