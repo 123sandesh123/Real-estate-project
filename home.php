@@ -156,7 +156,7 @@ footer > div{
              <div class="col-sm-4">
                <h2>ABOUT</h2>
                <h5>Some functionalities of this website:</h5>
-                <p>1.Easy access to all available real estates.</p>
+                <p>A.Easy access to all available real estates.</p>
                 <p>2.Secure and relaible due to user authoriaztion.</p>
                 <p>3.No worries of brokers interfering.</p>
                 <p>4.Direct contact and details of both buyer and seller.</p>
